@@ -71,7 +71,7 @@
 
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=almight20&theme=dark)](https://git.io/streak-stats)
 
 
 <p align="center">Show ❤️ by starring and forking repositories you find helpful! </p>
@@ -85,7 +85,7 @@
 <a href="https://github.com/almighty20/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almighty20&theme=onedark&langs_count=8&layout=compact)](https://github.com/almighty20/github-readme-stats" />
 </a> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bibhuti2000&theme=dark)](https://git.io/streak-stats)
+
 <!---
 almighty20/almighty20 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
