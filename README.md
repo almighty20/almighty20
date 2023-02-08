@@ -71,7 +71,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=almight20&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=almighty20&theme=dark)](https://git.io/streak-stats)
 
 
 <p align="center">Show ❤️ by starring and forking repositories you find helpful! </p>
