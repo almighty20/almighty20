@@ -59,7 +59,7 @@
 
 
   
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=almighty20&theme=dark)](https://git.io/streak-stats)
 
 <p href="https://github.com/almighty20/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almighty20&theme=onedark&layout=compact" />
@@ -71,7 +71,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=almighty20&theme=dark)](https://git.io/streak-stats)
+
 
 
 <p align="center">Show ❤️ by starring and forking repositories you find helpful! </p>
