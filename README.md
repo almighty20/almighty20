@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Almighty</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-vikal&label=Profile%20views&color=0e75b6&style=flat" alt="singh-vikal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=almighty20&label=Profile%20views&color=0e75b6&style=flat" alt="almighty20" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charitarthchugh" alt="charitarthchugh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almighty20" alt="almighty20" /></a> </p>
 
 
 ### 👋 Hi there, I’m using GitHub .
