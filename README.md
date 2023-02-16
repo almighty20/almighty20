@@ -15,7 +15,7 @@
 - 💞️ I’m looking to collaborate on everything which will help me in learning new things.
 - 🤔 I’m looking for help with Learning things like DSA, Bash, Web.
 - 💬 Ask me about Linux, Data Science.
-- 📫 How to reach me,you can Email me at : iamvikal901@gmail.com.
+<!---- 📫 How to reach me,you can Email me at : iamvikal901@gmail.com.--->
 - 😄 Pronouns: nothing...😂
 - ⚡ Fun fact: Sometimes i do things in wrost way possible, just to see things in different ways 😊.
 - 😊 Thank you Gentlemen.
