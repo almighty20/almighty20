@@ -1,3 +1,5 @@
+<!---stats credit  (https://github.com/anuraghazra/github-readme-stats)--->
+
 
 
 
@@ -23,7 +25,7 @@
 
 ## My Skills and Technologies I use:
 
-
+<img src="header.png"/>
 
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=almighty20&theme=dark)](https://git.io/streak-stats)
